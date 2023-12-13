@@ -9,5 +9,5 @@ pip install -r requirements. txt
 
 2- activate venv using that code in terminal
 
-Name off vitualenc/Scripts/Activate
+Name off vitualenv/Scripts/Activate
 
